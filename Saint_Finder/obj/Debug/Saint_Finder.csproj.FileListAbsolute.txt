@@ -1,0 +1,12 @@
+C:\Users\sbuys\source\repos\Saint_Finder\Saint_Finder\bin\Debug\Saint_Finder.exe.config
+C:\Users\sbuys\source\repos\Saint_Finder\Saint_Finder\bin\Debug\Saint_Finder.exe
+C:\Users\sbuys\source\repos\Saint_Finder\Saint_Finder\bin\Debug\Saint_Finder.pdb
+C:\Users\sbuys\source\repos\Saint_Finder\Saint_Finder\obj\Debug\Saint_Finder.csprojAssemblyReference.cache
+C:\Users\sbuys\source\repos\Saint_Finder\Saint_Finder\obj\Debug\Saint_Finder.Form1.resources
+C:\Users\sbuys\source\repos\Saint_Finder\Saint_Finder\obj\Debug\Saint_Finder.Properties.Resources.resources
+C:\Users\sbuys\source\repos\Saint_Finder\Saint_Finder\obj\Debug\Saint_Finder.SearchSettings.resources
+C:\Users\sbuys\source\repos\Saint_Finder\Saint_Finder\obj\Debug\Saint_Finder.csproj.GenerateResource.cache
+C:\Users\sbuys\source\repos\Saint_Finder\Saint_Finder\obj\Debug\Saint_Finder.csproj.CoreCompileInputs.cache
+C:\Users\sbuys\source\repos\Saint_Finder\Saint_Finder\obj\Debug\Saint_Finder.exe
+C:\Users\sbuys\source\repos\Saint_Finder\Saint_Finder\obj\Debug\Saint_Finder.pdb
+C:\Users\sbuys\source\repos\Saint_Finder\Saint_Finder\obj\Debug\Saint_Finder.SiteSettings.resources
